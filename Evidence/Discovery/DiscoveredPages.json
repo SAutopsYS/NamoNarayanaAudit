@@ -1,0 +1,542 @@
+﻿[
+    {
+        "Status":  "200",
+        "PageType":  "homepage",
+        "Title":  "Namo Narayana",
+        "Canonical":  "https://namonarayana.com/",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/",
+        "FinalURL":  "https://namonarayana.com/"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "well-known",
+        "Title":  "(non-html: application/json; charset=utf-8)",
+        "Canonical":  "",
+        "Indexability":  "n/a (non-page resource)",
+        "URL":  "https://namonarayana.com/.well-known/ucp",
+        "FinalURL":  "https://namonarayana.com/.well-known/ucp"
+    },
+    {
+        "Status":  "-1",
+        "PageType":  "404-probe",
+        "Title":  "",
+        "Canonical":  "",
+        "Indexability":  "unreachable",
+        "URL":  "https://namonarayana.com/404-not-a-real-page-audit-probe",
+        "FinalURL":  "https://namonarayana.com/404-not-a-real-page-audit-probe"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "account",
+        "Title":  "",
+        "Canonical":  "",
+        "Indexability":  "no (utility/transactional)",
+        "URL":  "https://namonarayana.com/account/login",
+        "FinalURL":  "https://shopify.com/authentication/75804901544/login?analytics_trace_id=87846b87-f627-4053-9026-a7b073aba8dc\u0026client_id=0fa0f370-271f-4ee2-ae51-e8a4402c26eb\u0026locale=en-IN\u0026redirect_uri=%2Fauthentication%2F75804901544%2Foauth%2Fauthorize%3Fanalytics_trace_id%3D87846b87-f627-4053-9026-a7b073aba8dc%26buyer_flags%3DeyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiI0aGp4a2QtZG0ubXlzaG9waWZ5LmNvbSIsImZsYWdzIjpbXSwiZXhwIjoxNzg1OTU5NDc3LCJuYmYiOjE3ODUzNTQ2Nzd9.AiVZnLjRdaNYSOYBy-Ho5eeVdI0jxXEcZgGIbFz2AVM%26client_id%3D0fa0f370-271f-4ee2-ae51-e8a4402c26eb%26locale%3Den-IN%26nonce%3D4314ada4-7bcb-4e2b-9e25-9700b98628f9%26redirect_uri%3Dhttps%253A%252F%252Fshopify.com%252F75804901544%252Faccount%252Fcallback%26response_type%3Dcode%26scope%3Dopenid%2Bemail%2Bcustomer-account-api%253Afull%26state%3DhWNF381eLEoVNkegw4CHpXV4"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "agent-discovery",
+        "Title":  "(non-html: text/markdown; charset=utf-8)",
+        "Canonical":  "",
+        "Indexability":  "n/a (non-page resource)",
+        "URL":  "https://namonarayana.com/agents.md",
+        "FinalURL":  "https://namonarayana.com/agents.md"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "blog",
+        "Title":  "News – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/blogs/news",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/blogs/news",
+        "FinalURL":  "https://namonarayana.com/blogs/news"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "cart",
+        "Title":  "Your Shopping Cart – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/cart",
+        "Indexability":  "no (robots disallow transactional)",
+        "URL":  "https://namonarayana.com/cart",
+        "FinalURL":  "https://namonarayana.com/cart"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "checkout",
+        "Title":  "Checkout - Namo Narayana",
+        "Canonical":  "",
+        "Indexability":  "no (robots disallow transactional)",
+        "URL":  "https://namonarayana.com/checkout",
+        "FinalURL":  "https://namonarayana.com/checkouts/cn/hWNF3824Zizz6hTBOlpGzWXE/en-in?_r=AQABrCVl1CI9-ChBZOjk5Zba0FT9pvZgvoliMWx4qXK3"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "collection",
+        "Title":  "Products – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/collections/all",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/collections/all",
+        "FinalURL":  "https://namonarayana.com/collections/all"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "collection",
+        "Title":  "All Products – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/collections/all-products",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/collections/all-products",
+        "FinalURL":  "https://namonarayana.com/collections/all-products"
+    },
+    {
+        "Status":  "-1",
+        "PageType":  "collection",
+        "Title":  "",
+        "Canonical":  "",
+        "Indexability":  "unreachable",
+        "URL":  "https://namonarayana.com/collections/atta",
+        "FinalURL":  "https://namonarayana.com/collections/atta"
+    },
+    {
+        "Status":  "-1",
+        "PageType":  "collection",
+        "Title":  "",
+        "Canonical":  "",
+        "Indexability":  "unreachable",
+        "URL":  "https://namonarayana.com/collections/cold-pressed-oils",
+        "FinalURL":  "https://namonarayana.com/collections/cold-pressed-oils"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "collection",
+        "Title":  "Flours – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/collections/flours",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/collections/flours",
+        "FinalURL":  "https://namonarayana.com/collections/flours"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "collection",
+        "Title":  "Home page – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/collections/frontpage",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/collections/frontpage",
+        "FinalURL":  "https://namonarayana.com/collections/frontpage"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "collection",
+        "Title":  "Ghee – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/collections/ghee",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/collections/ghee",
+        "FinalURL":  "https://namonarayana.com/collections/ghee"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "collection",
+        "Title":  "Honey – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/collections/honey",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/collections/honey",
+        "FinalURL":  "https://namonarayana.com/collections/honey"
+    },
+    {
+        "Status":  "-1",
+        "PageType":  "collection",
+        "Title":  "",
+        "Canonical":  "",
+        "Indexability":  "unreachable",
+        "URL":  "https://namonarayana.com/collections/natural-honey",
+        "FinalURL":  "https://namonarayana.com/collections/natural-honey"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "collection",
+        "Title":  "Natural Sweeteners – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/collections/natural-sweeteners",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/collections/natural-sweeteners",
+        "FinalURL":  "https://namonarayana.com/collections/natural-sweeteners"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "collection",
+        "Title":  "Oils – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/collections/oils",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/collections/oils",
+        "FinalURL":  "https://namonarayana.com/collections/oils"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "collection",
+        "Title":  "Organic Oils – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/collections/organic-oils",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/collections/organic-oils",
+        "FinalURL":  "https://namonarayana.com/collections/organic-oils"
+    },
+    {
+        "Status":  "-1",
+        "PageType":  "collection",
+        "Title":  "",
+        "Canonical":  "",
+        "Indexability":  "unreachable",
+        "URL":  "https://namonarayana.com/collections/pickles",
+        "FinalURL":  "https://namonarayana.com/collections/pickles"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "collection",
+        "Title":  "Pure Ghee \u0026amp; Honey – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/collections/pure-ghee-honey",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/collections/pure-ghee-honey",
+        "FinalURL":  "https://namonarayana.com/collections/pure-ghee-honey"
+    },
+    {
+        "Status":  "-1",
+        "PageType":  "page",
+        "Title":  "",
+        "Canonical":  "",
+        "Indexability":  "unreachable",
+        "URL":  "https://namonarayana.com/pages/about",
+        "FinalURL":  "https://namonarayana.com/pages/about"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "page",
+        "Title":  "About Us – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/pages/about-us",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/pages/about-us",
+        "FinalURL":  "https://namonarayana.com/pages/about-us"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "page",
+        "Title":  "Careers – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/pages/careers",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/pages/careers",
+        "FinalURL":  "https://namonarayana.com/pages/careers"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "page",
+        "Title":  "Certifications – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/pages/certifications",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/pages/certifications",
+        "FinalURL":  "https://namonarayana.com/pages/certifications"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "page",
+        "Title":  "Contact – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/pages/contact",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/pages/contact",
+        "FinalURL":  "https://namonarayana.com/pages/contact"
+    },
+    {
+        "Status":  "-1",
+        "PageType":  "page",
+        "Title":  "",
+        "Canonical":  "",
+        "Indexability":  "unreachable",
+        "URL":  "https://namonarayana.com/pages/faq",
+        "FinalURL":  "https://namonarayana.com/pages/faq"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "page",
+        "Title":  "Farm to Fork – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/pages/farm-to-fork",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/pages/farm-to-fork",
+        "FinalURL":  "https://namonarayana.com/pages/farm-to-fork"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "page",
+        "Title":  "Our Story – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/pages/our-story",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/pages/our-story",
+        "FinalURL":  "https://namonarayana.com/pages/our-story"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "page",
+        "Title":  "Social Media – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/pages/social-media",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/pages/social-media",
+        "FinalURL":  "https://namonarayana.com/pages/social-media"
+    },
+    {
+        "Status":  "-1",
+        "PageType":  "policy",
+        "Title":  "",
+        "Canonical":  "",
+        "Indexability":  "unreachable",
+        "URL":  "https://namonarayana.com/policies/contact-information",
+        "FinalURL":  "https://namonarayana.com/policies/contact-information"
+    },
+    {
+        "Status":  "-1",
+        "PageType":  "policy",
+        "Title":  "",
+        "Canonical":  "",
+        "Indexability":  "unreachable",
+        "URL":  "https://namonarayana.com/policies/legal-notice",
+        "FinalURL":  "https://namonarayana.com/policies/legal-notice"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "policy",
+        "Title":  "Privacy policy – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/policies/privacy-policy",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/policies/privacy-policy",
+        "FinalURL":  "https://namonarayana.com/policies/privacy-policy"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "policy",
+        "Title":  "Refund policy – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/policies/refund-policy",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/policies/refund-policy",
+        "FinalURL":  "https://namonarayana.com/policies/refund-policy"
+    },
+    {
+        "Status":  "-1",
+        "PageType":  "policy",
+        "Title":  "",
+        "Canonical":  "",
+        "Indexability":  "unreachable",
+        "URL":  "https://namonarayana.com/policies/shipping-policy",
+        "FinalURL":  "https://namonarayana.com/policies/shipping-policy"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "policy",
+        "Title":  "Terms of service – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/policies/terms-of-service",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/policies/terms-of-service",
+        "FinalURL":  "https://namonarayana.com/policies/terms-of-service"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "product",
+        "Title":  "Besan – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/products/besan",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/products/besan",
+        "FinalURL":  "https://namonarayana.com/products/besan"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "product",
+        "Title":  "Black Mustard Oil – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/products/black-mustard-oil",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/products/black-mustard-oil",
+        "FinalURL":  "https://namonarayana.com/products/black-mustard-oil"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "product",
+        "Title":  "Coconut Oil – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/products/coconut-oil",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/products/coconut-oil",
+        "FinalURL":  "https://namonarayana.com/products/coconut-oil"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "product",
+        "Title":  "Honey – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/products/honey",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/products/honey",
+        "FinalURL":  "https://namonarayana.com/products/honey"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "product",
+        "Title":  "Jaggery Powder – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/products/jaggery-powder",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/products/jaggery-powder",
+        "FinalURL":  "https://namonarayana.com/products/jaggery-powder"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "product",
+        "Title":  "Khapli Atta – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/products/khapli-atta",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/products/khapli-atta",
+        "FinalURL":  "https://namonarayana.com/products/khapli-atta"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "product",
+        "Title":  "Multi Grain Atta – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/products/multi-grain-atta",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/products/multi-grain-atta",
+        "FinalURL":  "https://namonarayana.com/products/multi-grain-atta"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "product",
+        "Title":  "Pickle – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/products/pickle",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/products/pickle",
+        "FinalURL":  "https://namonarayana.com/products/pickle"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "product",
+        "Title":  "Pure A2 Gir Cow Ghee 1 Litre – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/products/pure-desi-cow-ghee-1-litre",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/products/pure-desi-cow-ghee-1-litre",
+        "FinalURL":  "https://namonarayana.com/products/pure-desi-cow-ghee-1-litre"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "product",
+        "Title":  "Pure A2 Gir Cow Ghee 2.5 Litre – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/products/pure-desi-cow-ghee-2-5-litre",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/products/pure-desi-cow-ghee-2-5-litre",
+        "FinalURL":  "https://namonarayana.com/products/pure-desi-cow-ghee-2-5-litre"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "product",
+        "Title":  "Pure A2 Gir Cow Ghee 5 Litre – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/products/pure-desi-cow-ghee-5-litre",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/products/pure-desi-cow-ghee-5-litre",
+        "FinalURL":  "https://namonarayana.com/products/pure-desi-cow-ghee-5-litre"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "product",
+        "Title":  "Rogan Badam Oil – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/products/rogan-badam-oil",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/products/rogan-badam-oil",
+        "FinalURL":  "https://namonarayana.com/products/rogan-badam-oil"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "product",
+        "Title":  "Yellow Mustard oil – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/products/yellow-mustard-oil",
+        "Indexability":  "likely yes",
+        "URL":  "https://namonarayana.com/products/yellow-mustard-oil",
+        "FinalURL":  "https://namonarayana.com/products/yellow-mustard-oil"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "robots",
+        "Title":  "(non-html: text/plain; charset=utf-8)",
+        "Canonical":  "",
+        "Indexability":  "n/a (non-page resource)",
+        "URL":  "https://namonarayana.com/robots.txt",
+        "FinalURL":  "https://namonarayana.com/robots.txt"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "search",
+        "Title":  "Search – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/search",
+        "Indexability":  "no/limited (robots.txt rules)",
+        "URL":  "https://namonarayana.com/search",
+        "FinalURL":  "https://namonarayana.com/search"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "search",
+        "Title":  "Search: 5 results found for \"ghee\" – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/search?q=ghee",
+        "Indexability":  "no (utility/transactional)",
+        "URL":  "https://namonarayana.com/search?q=ghee",
+        "FinalURL":  "https://namonarayana.com/search?q=ghee"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "search",
+        "Title":  "Search: 0 results found for \"zzzznotfound999\" – Namo Narayana",
+        "Canonical":  "https://namonarayana.com/search?q=zzzznotfound999",
+        "Indexability":  "no (utility/transactional)",
+        "URL":  "https://namonarayana.com/search?q=zzzznotfound999",
+        "FinalURL":  "https://namonarayana.com/search?q=zzzznotfound999"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "sitemap",
+        "Title":  "(non-html: application/xml; charset=utf-8)",
+        "Canonical":  "",
+        "Indexability":  "n/a (non-page resource)",
+        "URL":  "https://namonarayana.com/sitemap.xml",
+        "FinalURL":  "https://namonarayana.com/sitemap.xml"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "sitemap",
+        "Title":  "(non-html: application/xml; charset=utf-8)",
+        "Canonical":  "",
+        "Indexability":  "n/a (non-page resource)",
+        "URL":  "https://namonarayana.com/sitemap_agentic_discovery.xml",
+        "FinalURL":  "https://namonarayana.com/sitemap_agentic_discovery.xml"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "sitemap",
+        "Title":  "(non-html: application/xml; charset=utf-8)",
+        "Canonical":  "",
+        "Indexability":  "n/a (non-page resource)",
+        "URL":  "https://namonarayana.com/sitemap_blogs_1.xml",
+        "FinalURL":  "https://namonarayana.com/sitemap_blogs_1.xml"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "sitemap",
+        "Title":  "(non-html: application/xml; charset=utf-8)",
+        "Canonical":  "",
+        "Indexability":  "n/a (non-page resource)",
+        "URL":  "https://namonarayana.com/sitemap_collections_1.xml?from=347134230696\u0026to=347643936936",
+        "FinalURL":  "https://namonarayana.com/sitemap_collections_1.xml?from=347134230696\u0026to=347643936936"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "sitemap",
+        "Title":  "(non-html: application/xml; charset=utf-8)",
+        "Canonical":  "",
+        "Indexability":  "n/a (non-page resource)",
+        "URL":  "https://namonarayana.com/sitemap_pages_1.xml?from=120826101928\u0026to=121405604008",
+        "FinalURL":  "https://namonarayana.com/sitemap_pages_1.xml?from=120826101928\u0026to=121405604008"
+    },
+    {
+        "Status":  "200",
+        "PageType":  "sitemap",
+        "Title":  "(non-html: application/xml; charset=utf-8)",
+        "Canonical":  "",
+        "Indexability":  "n/a (non-page resource)",
+        "URL":  "https://namonarayana.com/sitemap_products_1.xml?from=9486924808360\u0026to=9545153446056",
+        "FinalURL":  "https://namonarayana.com/sitemap_products_1.xml?from=9486924808360\u0026to=9545153446056"
+    }
+]
