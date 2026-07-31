@@ -191,7 +191,7 @@ Numeric lab/field scores were **not** produced for Core Web Vitals or automated 
 | Performance | Not Quantified From Verified Evidence |
 | Security | Not Quantified From Verified Evidence |
 | Architecture | Not Quantified From Verified Evidence |
-| Documentation (repo QA mean ×10) | **87** (from RepositoryQAReview mean 8.7/10) |
+| Documentation (repo QA mean ×10) | **91** (from RepositoryQAReview mean 9.1/10) |
 | Governance (gates PASS ratio) | **24** (4 of 17 gates PASS → 4/17×100) |
 | Evidence Coverage (Exists / defined IDs) | **74** (20 Exists of 27 defined EV IDs) |
 | Repository Readiness (repo QA Architecture×10) | **90** |
@@ -226,7 +226,7 @@ Refresh: [RepositoryStatistics.md](./RepositoryStatistics.md)
 
 ## Repository QA verdict
 
-**Needs Minor Documentation Updates** (RepositoryQAReview). Mean documentation quality 8.7/10. Website findings unchanged.
+**PASS** (RepositoryQAReview, 2026-08-01). Mean documentation quality 9.1/10. Website findings unchanged.
 
 ## Knowledge base overview
 

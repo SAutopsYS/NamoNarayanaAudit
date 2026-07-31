@@ -54,7 +54,7 @@ No screenshots or lab scores were fabricated. See [EvidenceGapRegister.md](./Evi
 
 ## Repository QA
 
-Independent documentation QA verdict: **Needs Minor Documentation Updates** (mean documentation quality 8.7/10 in RepositoryQAReview). Website conclusions were not altered by that review.
+Independent documentation QA verdict: **PASS** (mean documentation quality 9.1/10 in RepositoryQAReview). Website conclusions were not altered by that review.
 
 ## Next step for operators
 

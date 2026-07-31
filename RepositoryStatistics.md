@@ -1,13 +1,13 @@
 # Repository Statistics
 
 **Release:** NamoNarayanaAudit  
-**Generated:** 2026-07-30 (final release)
+**Generated:** 2026-08-01 (final release recount)
 
 ## Counts
 
 | Metric | Value |
 |--------|------:|
-| Markdown files (entire tree) | 107 |
+| Markdown files (entire tree) | 108 |
 | Domain reports (`Reports/`) | 20 |
 | Discovery docs | 3 |
 | Evidence Metadata sidecars | 27 |
@@ -38,10 +38,10 @@
 | Evidence tree + Assets notice | Present |
 | Findings integrity | Frozen |
 | Website paid-ads readiness | Not ready |
-| Documentation delivery | Final release |
+| Documentation delivery | Final release / Production Ready |
 
 ## Notes
 
 - EV0012 aliases EV0011 (same file, same SHA256).  
-- Recount Markdown files after adding documents.  
+- Markdown file count includes every `*.md` under this tree (root, Reports, Discovery, Evidence, Registers, Standards, Assets).  
 - Website lab scores remain Not Quantified From Verified Evidence.
